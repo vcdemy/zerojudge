@@ -11,8 +11,8 @@
 |[a005](https://zerojudge.tw/ShowProblem?problemid=a005)|Eva 的回家作業|迴圈, 字串切割, 轉型, 條件式, 基本運算, 例外處理|
 |[a006](https://zerojudge.tw/ShowProblem?problemid=a006)|一元二次方程式|迴圈, 字串切割, 轉型, 條件式, 國中數學, 基本運算, 例外處理|
 |[a009](https://zerojudge.tw/ShowProblem?problemid=a009)|解碼器|Caesar Cipher概念, ASCII概念, 字串處理|
-|[a010](https://zerojudge.tw/ShowProblem?problemid=a010)|因數分解||
-|[a013](https://zerojudge.tw/ShowProblem?problemid=a013)|羅馬數字||
+|[a010](https://zerojudge.tw/ShowProblem?problemid=a010)|因數分解|字串處理, 轉型, 基本運算|
+|[a013](https://zerojudge.tw/ShowProblem?problemid=a013)|羅馬數字|字串處理, 轉型, 基本運算|
 |[a015](https://zerojudge.tw/ShowProblem?problemid=a015)|矩陣的翻轉||
 |[a017](https://zerojudge.tw/ShowProblem?problemid=a017)|五則運算||
 |[a020](https://zerojudge.tw/ShowProblem?problemid=a020)|身分證檢驗||
