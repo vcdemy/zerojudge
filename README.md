@@ -3,7 +3,7 @@
 所有題型基本上都需要使用 input() 讀取讀取, print() 列印輸出。
 
 |ID|名稱|使用技術|備註|
-|:--|:--|:--|:--|
+|:--|:--|:--|:-:|
 |[a001](https://zerojudge.tw/ShowProblem?problemid=a001)|哈囉|字串加法|O|
 |[a002](https://zerojudge.tw/ShowProblem?problemid=a002)|簡易加法|字串切割(split), 轉型, 基本運算|O|
 |[a003](https://zerojudge.tw/ShowProblem?problemid=a003)|兩光法師占卜術|字串切割(split), 基本運算, list indexing|O|
